@@ -1,0 +1,47 @@
+{
+  "data_1": [
+    { "birthday": "11 Sept 2002" },
+    {
+      "website": "<a target='blank' href='http://ian-claros-resume.s3-website-us-east-1.amazonaws.com'>http://ian-claros-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 905-210-1794" },
+    { "address": "Katipunan, Clarin, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>canosa641@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Katipunan, Clarin, Bohol, Philippines",
+    "+63 905-210-1794",
+    "<a href='mailto:someone@example.com'>canosa641@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. Information Technology",
+      "year": "2021 - 2025",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SENIOR HIGH SCHOOL",
+      "year": "2019 - 2021",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "JUNIOR HIGH SCHOOL",
+      "year": "2015 - 2019",
+      "school": "Presentation of Mary School of Clarin, Inc.",
+      "address": "Pob. Centro, Clarin, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2008 - 2015",
+      "school": "Presentation of Mary School of Clarin, Inc.",
+      "address": "Pob. Centro, Clarin, Bohol"
+    }
+  ]
+}
